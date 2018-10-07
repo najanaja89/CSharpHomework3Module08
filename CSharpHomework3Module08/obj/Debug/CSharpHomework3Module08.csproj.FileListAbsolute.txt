@@ -1,0 +1,7 @@
+D:\Source\CSharpHomework3Module08\CSharpHomework3Module08\bin\Debug\CSharpHomework3Module08.exe.config
+D:\Source\CSharpHomework3Module08\CSharpHomework3Module08\bin\Debug\CSharpHomework3Module08.exe
+D:\Source\CSharpHomework3Module08\CSharpHomework3Module08\bin\Debug\CSharpHomework3Module08.pdb
+D:\Source\CSharpHomework3Module08\CSharpHomework3Module08\obj\Debug\CSharpHomework3Module08.csprojAssemblyReference.cache
+D:\Source\CSharpHomework3Module08\CSharpHomework3Module08\obj\Debug\CSharpHomework3Module08.csproj.CoreCompileInputs.cache
+D:\Source\CSharpHomework3Module08\CSharpHomework3Module08\obj\Debug\CSharpHomework3Module08.exe
+D:\Source\CSharpHomework3Module08\CSharpHomework3Module08\obj\Debug\CSharpHomework3Module08.pdb
